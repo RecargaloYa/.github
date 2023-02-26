@@ -1,12 +1,7 @@
-## Hi there 👋
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.recargaloya.com/banner-wsp.png" width="400"></a></p>
 
-<!--
+## Acerca de RECARGALOYA.COM
 
-**Here are some ideas to get you started:**
+RECARGALOYA.COM es una plataforma ecuatoriana líder en recargas y recaudación. Con más de 4 años de experiencia en el mercado, ofrecemos una amplia gama de servicios y soluciones tecnológicas adaptables y de alta calidad. Somos una empresa creada por FASTERY-DEV S.A.S. y ofrecemos servicios de recargas electrónicas, juegos, pines, recaudación de servicios básicos, entretenimiento, giros nacionales y criptomoneda. ¡Visítenos hoy mismo y descubra todo lo que tenemos para ofrecerle!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
