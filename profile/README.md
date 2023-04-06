@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.recargaloya.com/banner-wsp.png" width="400"></a></p>
+<p align="center"><a href="https://recargaloya.com/" target="_blank"><img src="https://www.recargaloya.com/home/banner-wsp.png" width="400"></a></p>
 
 ## Acerca de RECARGALOYA.COM
 
